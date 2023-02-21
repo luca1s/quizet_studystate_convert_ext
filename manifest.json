@@ -3,6 +3,9 @@
     "description": "Converts any Quizlet set to the format used by the `Import Quizlet` feature on StudyState.net",
     "version": "1.0",
     "manifest_version": 3,
+    "icons": {
+        "128": "StudyState.png"
+    },
     "content_scripts": [
         {
             "matches": [
