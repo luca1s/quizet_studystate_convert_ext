@@ -16,8 +16,5 @@
                 "content.js"
             ]
         }
-    ],
-    "permissions": [
-        "scripting"
     ]
 }
