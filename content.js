@@ -117,6 +117,6 @@ button.onclick = () => {
     document.body.appendChild(div);
 }
 
-waitForElm('.SetPageInformation-headerOptions').then((elm) => {
+waitForElm('.SetPageHeader-headerOptions').then((elm) => {
     elm.appendChild(button);
 });
